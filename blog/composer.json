@@ -1,0 +1,29 @@
+{
+
+    "name": "vbbs/blog",
+
+    "authors": [
+
+        {
+
+            "name": "vbbs",
+
+            "email": "906326481@qq.com"
+
+        }
+
+    ],
+
+    "require": {},
+
+    "autoload": {
+
+        "psr-4": {
+
+            "vbbs\\Blog\\": "src/"
+
+        }
+
+    }
+
+}
